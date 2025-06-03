@@ -5,5 +5,6 @@
 https://miro.com/app/board/uXjVI4uQx8s=/?share_link_id=57956610693
 
 
-Actividad Planning Poker
+Actividad Poker Planning
+
 https://docs.google.com/document/d/1kPt2ZR2Fsq7c71e-BekZa0Y9PfbMGYQq56mhhInYksE
