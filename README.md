@@ -11,3 +11,7 @@ I Semestre 2025
 # Tareas
 
 https://drive.google.com/drive/u/0/folders/1e-Emw_BtMr-54vD-3nhY0jsNQhlophDs
+
+# Presentación Reglas de Estilo(Canva)
+
+https://www.canva.com/design/DAGp_GkAUHA/gGV_4Q6QNCUig2SdPqQDgg/edit
