@@ -8,6 +8,10 @@ I Semestre 2025
 - <a href="https://github.com/handel123">Handel Venegas</a>
 - <a href="https://github.com/Furnariidae">Javier Reyes</a>
 
+# Video Joel+CMMI
+
+https://drive.google.com/file/d/1GVEUSCrWrm88NdQ_BDd22o-nAytUxwrG/view?usp=drive_link
+
 # Tareas
 
 https://drive.google.com/drive/u/0/folders/1e-Emw_BtMr-54vD-3nhY0jsNQhlophDs
